@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# uncompressed data files
+*csv
