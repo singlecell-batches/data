@@ -102,3 +102,6 @@ ENV/
 
 # uncompressed data files
 *csv
+
+# PyCharm
+.idea/
