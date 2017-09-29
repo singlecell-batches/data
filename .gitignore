@@ -102,6 +102,11 @@ ENV/
 
 # uncompressed data files
 *csv
+*netcdf
+*nc
+*hdf5
+*hdf
+*h5
 
 # PyCharm
 .idea/
